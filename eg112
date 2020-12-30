@@ -1,0 +1,22 @@
+<doctype!html>
+<html>
+ <head>
+   <title>Exercise 5: Structuring a Page for Cooking a Food Recipe</title>
+ </head>
+ <body>
+	<!-- Write your recipe here -->
+    <h1> Omelette recipe </h1>
+    <h2> Ingredients </h2>
+    <ul type="square">
+        <li> eggs</li>
+          <li> muka</li>
+            <li> energy</li>
+         </ul>
+    <h2> Instructions </h2>
+    <ol type="i">
+        <li> n1</li>
+        <li> n2</li>
+        <li> n3</li>
+        </ol>
+ </body>
+</html>
